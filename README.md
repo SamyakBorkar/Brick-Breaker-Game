@@ -15,8 +15,7 @@ Brick Breaker Game brings back the nostalgia of old-school arcade games, where y
 
 ## Screenshots / Gameplay
 
-<!-- Add screenshots or gameplay images here -->
-![Gameplay Screenshot 2](screenshots/gameplay2.png)
+![Screenshot (14)](https://github.com/SamyakBorkar/Brick-Breaker-Game/assets/155770735/11d9691f-fb7a-4e2a-9544-7e36ecf3d30f)
 
 
 ## How to Play
