@@ -16,8 +16,8 @@ Brick Breaker Game brings back the nostalgia of old-school arcade games, where y
 ## Screenshots / Gameplay
 
 <!-- Add screenshots or gameplay images here -->
-![Gameplay Screenshot 1](screenshots/gameplay1.png)
 ![Gameplay Screenshot 2](screenshots/gameplay2.png)
+
 
 ## How to Play
 
